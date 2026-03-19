@@ -5,8 +5,6 @@
 
 
 
-<!-- 
-
 
 ### Hi there 👋
 
@@ -17,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leojr2021&label=Profile%20views&color=0e75b6&style=flat" alt="leojr2021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leojr2021" alt="leojr2021" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +32,48 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leojr2021&" alt="leojr2021" /></p>
 
+# Hi 👋, I'm Leo Meza
+
+## About Me
+
+I am a Software Engineering student interested in building practical applications using AI and modern technologies. I enjoy solving real-world problems and improving user experience through software.
+
+---
+
+## Connect with me
+
+* Twitter: https://twitter.com/mleodev
+* LinkedIn: https://linkedin.com/in/leomezamancilla
+
+---
+
+## Skills & Technologies
+
+* **Languages:** Python, JavaScript
+* **Backend:** FastAPI
+* **Frontend:** Gradio
+* **AI/ML:** LangChain, LLM APIs
+* **Database:** Pinecone
+* **Tools:** Git, GitHub, Docker
+
+---
+
+## Projects
+
+### 📄 Document Preview PCF Control
+
+A Power Apps Component Framework (PCF) control that allows users to preview documents directly inside a Model-Driven App without downloading files.
+
+* Supports PDF, DOC, DOCX, PNG, JPG
+* Modal viewer with zoom and scroll
+* Clean and responsive UI
+
+---
+
+### 💅 Zen Beauty Salon Assistant
+
+An AI-powered application that helps manage appointments and customer support for a beauty salon.
+
+* AI chatbot using LangChain
+* Appointment booking and Google Calendar integration
+* Web interface (Gradio) and Telegram bot
